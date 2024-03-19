@@ -7,7 +7,7 @@
     color: black;
 }
 .header{
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: space-between;
     align-items: center;/*height ke along center */
