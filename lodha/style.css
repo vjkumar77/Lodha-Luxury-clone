@@ -8,9 +8,7 @@
 }
 .header{
     width: 50%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;/*height ke along center */
+    
 }
 .logo{
     padding: 10px;
